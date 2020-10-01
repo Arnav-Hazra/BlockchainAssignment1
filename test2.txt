@@ -1,0 +1,9 @@
+Test name: Deliver the order
+
+Test Description: As a user for Threads Inc, I should be able to accept the order and say the required amount needed for the order
+
+Desired outcome: I should be able to verify on the Remix IDE that the order is accepted and the amount is visible to the client
+
+Actual outcome:On testing, I validated that the actual outcome matches the desired outcome
+
+Result: Pass
