@@ -1,0 +1,9 @@
+Test name: Validity of user
+
+Test Description: As a user for Beach T-Shirts co, I should not be able to accept order and set its cost
+
+Desired outcome: I should be able to verify on the Remix IDE that oder accepted by Beach T is not valid and it fails
+
+Actual outcome:On testing, I validated that the actual outcome matches the desired outcome
+
+Result: Pass
